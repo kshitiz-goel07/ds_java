@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // Other imports go here
-// Do NOT change the class name
+// Do not change the class name
 class Main
 {
     public static void main(String[] args)
@@ -17,3 +17,5 @@ class Main
         System.out.println(count);
     }
     }
+
+//Code by Kshitiz Goel
